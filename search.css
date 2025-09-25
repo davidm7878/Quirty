@@ -1,0 +1,42 @@
+#search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+
+#searchBar {
+    margin: 0;
+    width: 60vw;
+}
+
+#searchButton {
+    background-color: #4444bb;
+    border: none;
+    padding: 2px 6px;
+    margin: 0;
+
+}
+
+#fin {
+    background-color: red;
+    border: none;
+    color: white;
+    height: 35px;
+    max-height: 35px;
+    font-weight: 700;
+    margin: 10px;
+}
+
+h1 {
+    color: #4444bb;
+    font-weight: 500;
+}
+
+#searchForm {
+    display: flex;
+    height: 35px;
+    max-height: 35px;
+    min-height: 35px;
+}

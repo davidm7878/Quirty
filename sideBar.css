@@ -1,0 +1,14 @@
+#sideBar {
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+}
+
+.sideItems {
+    background-color: #4444bb;
+    width: 200px;
+    padding: 10px 10px;
+    color: white;
+    text-decoration: none;
+    margin: 2px;
+}

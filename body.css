@@ -3,6 +3,8 @@ body {
     margin: 0;
     font-family: roboto;
     letter-spacing: .5px;
+    box-sizing: border-box;
+    background-color: rgb(238, 237, 237);
 }
 
 

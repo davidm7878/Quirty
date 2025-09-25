@@ -1,9 +1,10 @@
 #topNav {
     background-color: #4444bb;
-    height: 50px;
+    height: 4.5vh;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
+    padding: 5px;
 }
 
 .topLeftMenu {
@@ -29,5 +30,9 @@ a {
 }
 
 #help {
+    border-right: none;
+}
+
+#cartIcon {
     border-right: none;
 }
