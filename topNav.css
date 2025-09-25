@@ -1,0 +1,33 @@
+#topNav {
+    background-color: #4444bb;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.topLeftMenu {
+    color: white;
+    text-decoration: none;
+
+}
+.topRightMenu {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    bottom: 4px
+}
+
+#cart {
+    position: relative;
+    top: 6px;
+}
+
+a {
+    border-right: 1px solid white;
+    padding: 5px;
+}
+
+#help {
+    border-right: none;
+}
